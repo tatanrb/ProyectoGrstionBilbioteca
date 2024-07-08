@@ -1,0 +1,14 @@
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\bin\Debug\net8.0\Gestion de Biblioteca.exe
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\bin\Debug\net8.0\Gestion de Biblioteca.deps.json
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\bin\Debug\net8.0\Gestion de Biblioteca.runtimeconfig.json
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\bin\Debug\net8.0\Gestion de Biblioteca.dll
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\bin\Debug\net8.0\Gestion de Biblioteca.pdb
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.AssemblyInfo.cs
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.dll
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\refint\Gestion de Biblioteca.dll
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.pdb
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\Gestion de Biblioteca.genruntimeconfig.cache
+C:\Users\jonna\Downloads\Gestion de Biblioteca\Gestion de Biblioteca\obj\Debug\net8.0\ref\Gestion de Biblioteca.dll
